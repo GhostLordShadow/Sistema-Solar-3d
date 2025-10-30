@@ -1,5 +1,6 @@
 # Sistema-Solar-3d
 Creación de un sistema solar en 3d, en el cual se puedan modificar la velocidad y seguir a los planetas*.
+
 Puede aplicarse en un archivo .index si se desea (HTML)
 
 ---
@@ -23,4 +24,4 @@ Bajo las siguientes condiciones:
 
 Todo el desarrollo y mantenimiento de este proyecto está *respaldado por GhostLordShadow*.
 
-Para cualquier uso fuera de los términos de esta licencia (incluido el uso comercial), por favor, contacta a leonel14.rl@gmail.com].
+Para cualquier uso fuera de los términos de esta licencia (incluido el uso comercial), por favor, contacta a leonel14.rl@gmail.com*.
